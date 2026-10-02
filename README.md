@@ -11,17 +11,14 @@
 ### 🛠️ Languages & Tools I Use
 
 #### 💻 Programming Languages
-![Java](https://shields.io)
-![Python](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" />
 
 #### 🌐 Frontend Web Development
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 #### ⚙️ Developer Ecosystem Tools
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" />
+
 
 ---
 
